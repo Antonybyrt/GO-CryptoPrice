@@ -46,7 +46,7 @@ A Go-based cryptocurrency price tracking application that fetches and stores rea
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/Go-CryptoPrice.git
+git clone https://github.com/Antonybyrt/GO-CryptoPrice.git
 cd Go-CryptoPrice
 ```
 
